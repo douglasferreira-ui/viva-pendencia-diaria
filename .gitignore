@@ -1,0 +1,13 @@
+# Dados operacionais / clientes — não versionar
+/data/latest.xlsx
+/data/history.csv
+*.xlsx
+
+# Segredos locais
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
